@@ -153,6 +153,7 @@ top: -99px;
     }
     .main-content .main-content-text{
         width: 100%;
+        z-index:2;
     }
     .main-content .main-content-text h1{
         font-size: 38px;
